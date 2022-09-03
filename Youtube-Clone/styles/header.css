@@ -23,6 +23,7 @@
   height: 24px;
   margin-left: 24px;
   margin-right: 20px;
+  cursor: pointer;
 }
 
 .youtube-logo {
@@ -62,6 +63,7 @@
   border-color: rgb(192, 192, 192);
   margin-left: -1px;
   margin-right: 10px;
+  cursor: pointer;
 }
 
 .search-button,
@@ -114,6 +116,7 @@
   border-radius: 20px;
   border: none;
   background-color: rgb(245, 245, 245);
+  cursor: pointer;
 }
 
 .voice-search-icon {
@@ -131,14 +134,17 @@
 
 .upload-icon {
   height: 24px;
+  cursor: pointer;
 }
 
 .youtube-apps-icon {
   height: 24px;
+  cursor: pointer;
 }
 
 .notifications-icon {
   height: 24px;
+  cursor: pointer;
 }
 
 .notifications-icon-container {
@@ -162,4 +168,5 @@
 .current-user-picture {
   height: 32px;
   border-radius: 16px;
+  cursor: pointer;
 }
